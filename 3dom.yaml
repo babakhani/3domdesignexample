@@ -14,7 +14,7 @@ source: ./heatgun.skp
 sourceformat: skp
 # path to folder of 3dom object images
 gallery: ./gallery
-artwork: ./heatgun.img
+artwork: ./heatgun.jpg
 wieght: 90g
 settings: 
   printer: custom 
