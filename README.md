@@ -1,2 +1,2 @@
-# first3domdesignsample
+# 3domdesignexample
 First 3domdesign sample project
