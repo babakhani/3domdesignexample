@@ -4,7 +4,9 @@ cheap heatgun, using soldering iron heater and 12v fan
 
 ### Install
 `3dom download @babakhani/heatgun`
+
 `cd heatgun`
+
 `3dom install`
 
 ### Settings: 
